@@ -1,0 +1,31 @@
+PODS:
+  - APStore (0.1.0):
+    - APStore/APKeyValueStore (= 0.1.0)
+  - APStore/APKeyValueStore (0.1.0):
+    - FMDB/SQLCipher (~> 2.6.2)
+  - FMDB/SQLCipher (2.6.2):
+    - SQLCipher
+  - SQLCipher (3.1.0):
+    - SQLCipher/standard (= 3.1.0)
+  - SQLCipher/common (3.1.0)
+  - SQLCipher/standard (3.1.0):
+    - SQLCipher/common
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - APStore (from `../`)
+  - YYModel (~> 1.0.4)
+
+EXTERNAL SOURCES:
+  APStore:
+    :path: ../
+
+SPEC CHECKSUMS:
+  APStore: a76f9e83fbdf612bc61a70a1acb6e3fee8f26a44
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  SQLCipher: 4684434d5791db86512cd7e02172aefba575849e
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: d6f6925b8da6980fbcc337b471a12ab0a81d815b
+
+COCOAPODS: 1.2.1
