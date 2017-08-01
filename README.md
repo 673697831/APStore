@@ -17,7 +17,7 @@ APStore is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'APStore', git: 'git@coderepo.aipai.com:jasxio/APStore.git', branch: 'dev'
+pod 'APStore', git: 'https://github.com/673697831/APStore.git'
 ```
 
 ## Author
