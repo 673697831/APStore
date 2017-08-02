@@ -3,14 +3,13 @@
   "version": "0.1.0",
   "summary": "I am a store.",
   "description": "APStore is a local store, include APKeyValueStore etc.\nAPKeyValueStore is base on fmdb.",
-  "homepage": "http://coderepo.aipai.com:39399/jasxio/APStore",
+  "homepage": "https://github.com/673697831/APStore",
   "license": "MIT",
   "authors": {
     "ozr": "673697831@qq.com"
   },
   "source": {
-    "git": "git@coderepo.aipai.com:jasxio/APStore.git",
-    "branch": "dev",
+    "git": "https://github.com/673697831/APStore.git",
     "tag": "0.1.0"
   },
   "platforms": {

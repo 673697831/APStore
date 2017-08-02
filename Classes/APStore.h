@@ -10,6 +10,7 @@
 #define APStore_h
 
 #import "APEncryptDatabaseQueue.h"
-
+#import "APKeyValueStore.h"
+#import "APEncryptDBHelper.h"
 
 #endif /* APStore_h */
